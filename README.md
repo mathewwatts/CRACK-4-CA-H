@@ -3,8 +3,6 @@ CRACK4CA$H
 ![heading](docs/crack4cash.png)
 # Ruby Based Terminal App
 ---
-links to github repository: git@github.com:IvoryThunder83/CRACK4CA-H.git 
-
 
 ## Must download the folling Ruby GEMS:
 ![brainstorm one](docs/ruby_gems.png)
